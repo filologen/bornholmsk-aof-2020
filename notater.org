@@ -1,0 +1,112 @@
+#+TITLE: Introduktion til Bornholmsk
+#+AUTHOR: ved Alex Speed Kjeldsen
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \cohead{{\scshape Introduktion til Bornholmsk}}
+#+DATE: Svanekegaarden, foråret 2020
+
+* Kursusbeskrivelse
+Kurset henvender sig til folk, som ikke selv taler bornholmsk, men som gerne vil
+lære mere om den bornholmske dialekt. Det kan være tilflyttere, for hvem det
+bornholmske er noget helt nyt, men det kan også være indfødte bornholmere, som
+ikke taler bornholmsk i nogen videre udstrækning.
+
+Over seks undervisningsgange i marts og april måned vil beskæftige os med det
+bornholmske sprog og samtidig lære lidt om øens kultur, bl.a. gennem læsning af
+ældre bornholmske tekster. Kursusdeltagerne vil bl.a.
+
+ - få en introduktion til de vigtigste træk i det bornholmsk sprog, herunder
+   hvordan det adskiller sig fra det rigsdanske
+
+ - få en introduktion til forskellige ressourcer (ordbøger, tekster m.m.)
+
+ - høre og (op)læse bornholmske historier (folkesagn, humoristiske tekster m.m.)
+
+ - lytte til gamle lydoptagelser af bornholmere født i 1800-tallet
+
+ - lære en række karakteristiske bornholmske ord og vendinger
+
+ - øve sig i at tale bornholmsk
+
+Til nogle af undervisningsgangene må der forventes forberedelse i begrænset
+omfang.
+
+* Om underviser
+Alex Speed Kjeldsen er Ph.d. i Nordisk Filologi og ansat ved Københavns
+Universitet ved Institut for Nordiske Studier og Sprogvidenskab.
+
+Han har inden for de seneste par år taget initiativ til at genoptage et stort,
+videnskabeligt funderet bornholmsk ordbogsprojekt med støtte fra en række fonde
+og et stort antal frivillige bornholmere, som løser forskellige opgaver.
+
+Alex har i en række år undervist ved Københavns Universitet, bl.a. i ældre
+nordiske sprog, og i efteråret 2019 underviste han for første gang i bornholmsk
+på Ungdomsskolen i Klemensker.
+
+
+* Kursusplan
+| 5/3-20  | 1) Overordnet introduktion til kurset (mål etc.)             |
+|         | 2) Hvem er vi?                                               |
+|         | 3) Forventninger og ønsker (hvorfor har I tilmeldt jer?)     |
+|         | 4) Hvad forbinder I med bornholmsk?                          |
+|         | 5) En bornholmsk sang                                        |
+|         | 6) Pær Sju: Oplæsning, læseøvelse, snak om udtale og bøjning |
+|         | 7) Lidt om hjælpemidler                                      |
+|         | 8) Om næste uge (forberedelse)                               |
+|         |                                                              |
+| 12/3-20 | Læsning (Sansâger):                                          |
+|         | -- Pær Sju (oplæsning)                                       |
+|         | -- Nobbes                                                    |
+|         | Grammatik: Udtale og lydsystem                               |
+|         | Dagens sang og dagens talemåde                               |
+|         | Samtaleøvelser                                               |
+|         |                                                              |
+| 19/3-20 | Læsning:                                                     |
+|         | -- Digte                                                     |
+|         | -- Ârier, anekdoter                                          |
+|         | Grammatik: De tre køn (navneord og tillægsord)               |
+|         | Dagens sang og dagens talemåde                               |
+|         | Samtaleøvelser m.m.                                          |
+|         |                                                              |
+| 26/3-20 | Læsning:                                                     |
+|         | -- Fra bornholmske aviser                                    |
+|         | -- Remser                                                    |
+|         | Grammatik: De tre køn (stedord m.m.)                         |
+|         | Dagens sang og dagens talemåde                               |
+|         | Samtaleøvelser m.m.                                          |
+|         |                                                              |
+| 2/4-20  | Læsning: Otto J. Lund                                        |
+|         | Grammatik: Udsagnsnord                                       |
+|         | Dagens sang og dagens talemåde                               |
+|         | Samtaleøvelser m.m.                                          |
+|         |                                                              |
+| 23/4-20 | "Læsning": Lytte til interviews med ældre dialekttalende     |
+|         | Grammatik: Syntaks (sætningslære)                            |
+|         | Om det bornholmske ordbogsprojekt                            |
+|         | Dagens sang og dagens talemåde                               |
+|         | Samtaleøvelser m.m.                                          |
+
+* COMMENT Læsestof
+* COMMENT Deltagerliste
+|----------------------+----------+------------------------------|
+| Navn                 |  telefon | email                        |
+|----------------------+----------+------------------------------|
+| Birthe Tindbæk Bredo | 21229113 | bt.bredo@gmail.com           |
+| Chr. Engelhardt      | 51541140 | Virkelystpartner@hotmail.com |
+| Dennis Støvring      | 40950709 | dennis@svaneke17.dk          |
+| Karen Heerfordt      | 30820086 | karen@heerfordt.net          |
+| Lars Heerfordt       | 30820085 | lars@heerfordt.net           |
+| Laura Piil Pedersen  | 41667297 | Lapiil@hotmail.com           |
+| Maïa Westh           | 41673082 | maiawesth@live.dk            |
+| Mejse Holm           | 25543330 | mejse89@gmail.com            |
+| Mette Vind           | 21740433 | vindmette@gmail.com          |
+| Nie Ramhøj           | 26797983 | nie@ramhoj.dk                |
+| Per Panduro Sørensen | 40346950 | ppanduros@gmail.com          |
+| Vibeke Strunge Kruse | 28182636 | vnybro@gmail.com             |
+|----------------------+----------+------------------------------|
+
+** Emails i outlook-format:
+bt.bredo@gmail.com; Virkelystpartner@hotmail.com; dennis@svaneke17.dk; karen@heerfordt.net; lars@heerfordt.net; Lapiil@hotmail.com; maiawesth@live.dk; mejse89@gmail.com; vindmette@gmail.com; nie@ramhoj.dk; ppanduros@gmail.com; vnybro@gmail.com
+
+* COMMENT Diverse
+ - fârn væl å fijnnas glâ ijænn
+ - 
