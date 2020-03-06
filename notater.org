@@ -44,69 +44,119 @@ på Ungdomsskolen i Klemensker.
 
 
 * Kursusplan
-| 5/3-20  | 1) Overordnet introduktion til kurset (mål etc.)             |
-|         | 2) Hvem er vi?                                               |
-|         | 3) Forventninger og ønsker (hvorfor har I tilmeldt jer?)     |
-|         | 4) Hvad forbinder I med bornholmsk?                          |
-|         | 5) En bornholmsk sang                                        |
-|         | 6) Pær Sju: Oplæsning, læseøvelse, snak om udtale og bøjning |
-|         | 7) Lidt om hjælpemidler                                      |
-|         | 8) Om næste uge (forberedelse)                               |
-|         |                                                              |
-| 12/3-20 | Læsning (Sansâger):                                          |
-|         | -- Pær Sju (oplæsning)                                       |
-|         | -- Nobbes                                                    |
-|         | Grammatik: Udtale og lydsystem                               |
-|         | Dagens sang og dagens talemåde                               |
-|         | Samtaleøvelser                                               |
-|         |                                                              |
-| 19/3-20 | Læsning:                                                     |
-|         | -- Digte                                                     |
-|         | -- Ârier, anekdoter                                          |
-|         | Grammatik: De tre køn (navneord og tillægsord)               |
-|         | Dagens sang og dagens talemåde                               |
-|         | Samtaleøvelser m.m.                                          |
-|         |                                                              |
-| 26/3-20 | Læsning:                                                     |
-|         | -- Fra bornholmske aviser                                    |
-|         | -- Remser                                                    |
-|         | Grammatik: De tre køn (stedord m.m.)                         |
-|         | Dagens sang og dagens talemåde                               |
-|         | Samtaleøvelser m.m.                                          |
-|         |                                                              |
-| 2/4-20  | Læsning: Otto J. Lund                                        |
-|         | Grammatik: Udsagnsnord                                       |
-|         | Dagens sang og dagens talemåde                               |
-|         | Samtaleøvelser m.m.                                          |
-|         |                                                              |
-| 23/4-20 | "Læsning": Lytte til interviews med ældre dialekttalende     |
-|         | Grammatik: Syntaks (sætningslære)                            |
-|         | Om det bornholmske ordbogsprojekt                            |
-|         | Dagens sang og dagens talemåde                               |
-|         | Samtaleøvelser m.m.                                          |
+| 5/3-20  | *Første undervisningsgang*                                                         |
+|         | 1) Overordnet introduktion til kurset (mål etc.)                                   |
+|         | 2) Hvem er vi?                                                                     |
+|         | 3) Forventninger og ønsker (hvorfor har I tilmeldt jer?)                           |
+|         | 4) Hvad forbinder I med bornholmsk?                                                |
+|         | 5) En bornholmsk sang                                                              |
+|         | 6) /Pær Sju/: Oplæsning, læseøvelse, snak om udtale og bøjning                     |
+|         | 7) Lidt om hjælpemidler                                                            |
+|         | 8) Om næste uge (forberedelse)                                                     |
+|         |                                                                                    |
+|         |                                                                                    |
+| 12/3-20 | *Anden undervisningsgang*                                                          |
+|         | Læsning (Sansâger):                                                                |
+|         | -- /Pær Sju/ (oplæsning)                                                           |
+|         | -- /Nobbes/ (eller en anden kortere tekst)                                         |
+|         | Grammatik: Udtale og lydsystem                                                     |
+|         | Dagens sang og dagens talemåde                                                     |
+|         | Samtaleøvelser                                                                     |
+|         | *Forberedelse:*                                                                    |
+|         | *1)* Øv jer i at oplæse /Pær Sju/. Teksten blev udleveret sidst, men findes også i |
+|         | /Borrinjholmska Sansâger/, som kan downloades [[https://www.dropbox.com/s/c2nn4af9l1wzr4h/Borrinjholmska%20Sans%C3%A2ger.pdf?dl=0][herfra]]. I kan hente inspiration i en |
+|         | indlæsning fra omkring 1940 (det er udgiveren J. P. Kuhre, som læser op). Den kan  |
+|         | downloades [[https://www.dropbox.com/s/c0x5hkxwzhw632y/b_1495A_Bornholm_Danmark.mp3?dl=0][herfra]].                                                             |
+|         | *2)* H. A. Kofoed /Sproget -- Bornholmsk/, s. 1--8 (ikke afsnittet /Formlære/)     |
+|         |                                                                                    |
+|         |                                                                                    |
+| 19/3-20 | *Tredje undervisningsgang*                                                         |
+|         | Læsning:                                                                           |
+|         | -- Digte                                                                           |
+|         | -- Ârier, anekdoter                                                                |
+|         | Grammatik: De tre køn (navneord og tillægsord)                                     |
+|         | Dagens sang og dagens talemåde                                                     |
+|         | Samtaleøvelser m.m.                                                                |
+|         |                                                                                    |
+|         |                                                                                    |
+| 26/3-20 | *Fjerde undervisningsgang*                                                         |
+|         | Læsning:                                                                           |
+|         | -- Fra bornholmske aviser                                                          |
+|         | -- Remser                                                                          |
+|         | Grammatik: De tre køn (stedord m.m.)                                               |
+|         | Dagens sang og dagens talemåde                                                     |
+|         | Samtaleøvelser m.m.                                                                |
+|         |                                                                                    |
+|         |                                                                                    |
+| 2/4-20  | *Femte undervisningsgang*                                                          |
+|         | Læsning: Otto J. Lund                                                              |
+|         | Grammatik: Udsagnsnord                                                             |
+|         | Dagens sang og dagens talemåde                                                     |
+|         | Samtaleøvelser m.m.                                                                |
+|         |                                                                                    |
+|         |                                                                                    |
+| 23/4-20 | *Sjette Undervisningsgang*                                                         |
+|         | ”Læsning”: Lytte til interviews med ældre dialekttalende                           |
+|         | Grammatik: Syntaks (sætningslære)                                                  |
+|         | Om det bornholmske ordbogsprojekt                                                  |
+|         | Dagens sang og dagens talemåde                                                     |
+|         | Samtaleøvelser m.m.                                                                |
 
 * COMMENT Læsestof
 * COMMENT Deltagerliste
-|----------------------+----------+------------------------------|
-| Navn                 |  telefon | email                        |
-|----------------------+----------+------------------------------|
-| Birthe Tindbæk Bredo | 21229113 | bt.bredo@gmail.com           |
-| Chr. Engelhardt      | 51541140 | Virkelystpartner@hotmail.com |
-| Dennis Støvring      | 40950709 | dennis@svaneke17.dk          |
-| Karen Heerfordt      | 30820086 | karen@heerfordt.net          |
-| Lars Heerfordt       | 30820085 | lars@heerfordt.net           |
-| Laura Piil Pedersen  | 41667297 | Lapiil@hotmail.com           |
-| Maïa Westh           | 41673082 | maiawesth@live.dk            |
-| Mejse Holm           | 25543330 | mejse89@gmail.com            |
-| Mette Vind           | 21740433 | vindmette@gmail.com          |
-| Nie Ramhøj           | 26797983 | nie@ramhoj.dk                |
-| Per Panduro Sørensen | 40346950 | ppanduros@gmail.com          |
-| Vibeke Strunge Kruse | 28182636 | vnybro@gmail.com             |
-|----------------------+----------+------------------------------|
+|----------------------+----------+------------------------------+-----|
+| Navn                 |  telefon | email                        | 5/3 |
+|----------------------+----------+------------------------------+-----|
+| Birthe Tindbæk Bredo | 21229113 | bt.bredo@gmail.com           |     |
+| Chr. Engelhardt      | 51541140 | Virkelystpartner@hotmail.com |     |
+| Dennis Støvring      | 40950709 | dennis@svaneke17.dk          |     |
+| Karen Heerfordt      | 30820086 | karen@heerfordt.net          |     |
+| Lars Heerfordt       | 30820085 | lars@heerfordt.net           |     |
+| Laura Piil Pedersen  | 41667297 | Lapiil@hotmail.com           |     |
+| Maïa Westh           | 41673082 | maiawesth@live.dk            |     |
+| Mejse Holm           | 25543330 | mejse89@gmail.com            |     |
+| Mette Vind           | 21740433 | vindmette@gmail.com          |     |
+| Nie Ramhøj           | 26797983 | nie@ramhoj.dk                |     |
+| Per Panduro Sørensen | 40346950 | ppanduros@gmail.com          |     |
+| Vibeke Strunge Kruse | 28182636 | vnybro@gmail.com             |     |
+|----------------------+----------+------------------------------+-----|
 
 ** Emails i outlook-format:
 bt.bredo@gmail.com; Virkelystpartner@hotmail.com; dennis@svaneke17.dk; karen@heerfordt.net; lars@heerfordt.net; Lapiil@hotmail.com; maiawesth@live.dk; mejse89@gmail.com; vindmette@gmail.com; nie@ramhoj.dk; ppanduros@gmail.com; vnybro@gmail.com
 
 * COMMENT Diverse
- - fârn væl å fijnnas glâ ijænn
- - 
+ - Når Fanijn sjider, sjider hajn i stakka
+ - Fârn væl å fijnnas glâ ijænn!
+
+Anekdote
+To âlinjabo hadde tâ'd saj på å sajla en jajt te Kjøvvenhavn, mæn når di va
+kommena nonna mil te sjøs, fikkje di ustogga vær me togga å noranvinj, s'a di
+kom ud å kosinj å ømmer drev sønnerpå. Når di hadde sajld på ded vized enj dâ å
+en nat, skujle di ætte berajninjen varra nera ver Tysklan enj stâ - å ganske
+ræjtit - om mârninj kunje di sjømta lann. Di lawada te å ro i lann me dorres
+jolla, mæn - sâ dænj ena: vaddan ska vi nu få nâd å vedda udå di dæwlana, for di
+forstå vos væl inte. Du kanj bâra la maj snakka me dom, sâ dænj anra, for så
+majed tyst kanj jâ da livæl, a jâ nok ska skaffa vos besje.  Så kom di te lann,
+å dær va sânbakka å lynj, mæn di så varkan huz æjle mænjeske. Tesist trof di
+livæl en horra, som vâutada nonna får. Dænj som kunje snakka tyst gjik hæn te
+horrinj å spore: Aber dies - aber das - vad e dætta for et lann? Horrinj så ud,
+som va hanj falder ner frå månanj å kunje slæt injed svâra. Sjøkarinj ble nagger
+å smajl horrinj en unje ørad å sâ: Va, din horrahundan, kanj du inte svâra, når
+enj snakkar te daj å saj vos, vår vi e kommena i lann. Så gâ horrinj saj te å
+vræla å snæwtada: Jo, jo, ded e Ârnâgabakkana.
+
+Anekdote
+Enjgång for många år sijn va dær bispalæzninj i Aakjærke, å læzebællana frå årn
+forr va ju så frama på stæinj å ble âuerhørda i dorra kristendom. Di klârada dom
+nu inte lige gott ajle, især va'd galed for enj Fårabyhorra. Bispinj spore om va
+vaj Jesus drâu frå Galilæa te Jerusalem æjle seddan nâd, å ded visste horrinj ju
+ikje å svâra på, kantro, å bispinj va tæmmeli misfornojder me hans kristendom.
+Dâjnj ætte skujle biskoppinj te Østermarkjærke å tâu væjnj âuer lynginj. Mæn når
+di kom te Fåraby, delde væjnj saj, å kuskinj visste inte vikkinj å vajana hanj
+skujle følla. Mæn dær gjik enj horra inja på marken å wâutada, å hannem râwte di
+så på, å hanj kom hæn te vâuninj. De va dænj samma horrinj, som ikje hadde
+kunjad svâra for i kjærkan dâjnj forra. Bispinj spore, om hanj kunje saj dom,
+vikkinj vaj di skujle ad te Østermarkjærke. Jo, ded kunje horrinj ju gott - de
+va dænj væjnj dær - mæn, kunje hanj ikje dy saj for å foja te: "ded synes maj
+hal unjelit ad bispinj vil forlånga å maj, a jâ skujle varra vajakjænder i
+Jødelann, når hanj ikje sæl engång kjænjer Fårabyvæjnj.
